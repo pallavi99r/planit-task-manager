@@ -57,8 +57,10 @@ http://127.0.0.1:5001
 
 ## 📸 Screenshots
 
-(Add screenshots of your app here)
-
+## Home Page
+![Home] (screenshots/home.png)
+## Addtask
+! [addtask] (screenshots/addtask.png)
 ## 👩‍💻 Author
 
 Pallavi
