@@ -57,11 +57,11 @@ http://127.0.0.1:5001
 
 ## 📸 Screenshots
 
-## Home Page
-![Home] (screenshots/home.png)
-## Addtask
-! [addtask] (screenshots/addtask.png)
-## 👩‍💻 Author
+### Home Page
+![Home](screenshots/home.png)
+
+### Add Task
+![Add Task](screenshots/addtask.png)
 
 Pallavi
 
